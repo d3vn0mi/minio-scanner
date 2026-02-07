@@ -8,7 +8,7 @@
  \__,_|____/ \_/ |_| |_|\___/|_| |_| |_|_|
                                                             
 minio-scanner v0.1 | github.com/d3vn0mi
-"""
+```
 
 Comprehensive security assessment & exploitation toolkit for MinIO instances
 Console discovery • API auth testing • S3 enumeration • admin validation • endpoint exposure • CVE checks • webhook SSRF paths • reporting
